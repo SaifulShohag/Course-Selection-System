@@ -60,7 +60,7 @@ class _CourseDetailScreenState extends State<CourseDetailScreen> {
         actions: [
           TextButton(
             onPressed: () async {
-              if(course['maxStudents'] < course['students'].length) {
+              if(course['students'].length < course['maxStudents']) {
                 if(userTotalAppliedCourses < 5) {
                   if(!alreadyApplied) {
                     preventDoubleTap(context);
