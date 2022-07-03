@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3584322795",
+    "project_id": "course-selection-system-7988e",
+    "storage_bucket": "course-selection-system-7988e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3584322795:android:974de295d901a24bfc22ae",
+        "android_client_info": {
+          "package_name": "com.saifulfools.courseSelectionSystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3584322795-32quv76lie5q8g15bokpfvocvrckm738.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaLFMvowjasDO6xsU3TkfMNd_diAbePLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3584322795-32quv76lie5q8g15bokpfvocvrckm738.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

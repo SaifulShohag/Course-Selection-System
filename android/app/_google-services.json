@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "260536735633",
+    "project_id": "lovearts-36e14",
+    "storage_bucket": "lovearts-36e14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260536735633:android:14137885717d0adf826c30",
+        "android_client_info": {
+          "package_name": "com.artistrecruiter.artfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260536735633-3s3b33p92glerk6iimh0t4flm0k8q39v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artistrecruiter.artfinder",
+            "certificate_hash": "ca0fd50a70fe1dcbd45c05e997af3c93988489fe"
+          }
+        },
+        {
+          "client_id": "260536735633-snt3c599jv2i92o5ugk60i1uqcpvbddd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX1GEEQU--ZenWTWqS32nzKiWLn84Nvwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260536735633-snt3c599jv2i92o5ugk60i1uqcpvbddd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260536735633:android:6994cf7a594de90b826c30",
+        "android_client_info": {
+          "package_name": "com.saifulfools.loveArts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260536735633-r27qr6banmndl9uuhlrfdevjggoavhhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saifulfools.loveArts",
+            "certificate_hash": "ca0fd50a70fe1dcbd45c05e997af3c93988489fe"
+          }
+        },
+        {
+          "client_id": "260536735633-snt3c599jv2i92o5ugk60i1uqcpvbddd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX1GEEQU--ZenWTWqS32nzKiWLn84Nvwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260536735633-snt3c599jv2i92o5ugk60i1uqcpvbddd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
